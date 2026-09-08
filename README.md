@@ -83,7 +83,7 @@ git remote add upstream URL-VAN-DE-REPOSITORY-VAN-DE-DOCENT
 Bijvoorbeeld:
 
 ```bash
-git remote add upstream https://github.com/docent/python-opdrachten.git
+git remote add upstream https://github.com/YouriVanDBroek/PythonPeriode1.git
 ```
 
 Je kunt controleren welke repositories gekoppeld zijn met:
