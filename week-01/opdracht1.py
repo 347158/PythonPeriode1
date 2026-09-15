@@ -10,7 +10,7 @@ print()
 
 naam = ""
 leeftijd = 0
-woonstad = ""
+woonstad = "utrecht"
 
 
 # Oefening 3
